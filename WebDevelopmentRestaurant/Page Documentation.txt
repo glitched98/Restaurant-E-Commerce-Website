@@ -1,0 +1,31 @@
+AboutUs-Page.html: https://www.cs.ryerson.ca/~f9zhang/proj/aboutus.html
+
+Checkout-Page.html: https://www.cs.ryerson.ca/~f9zhang/proj/checkout.html
+
+confirmation.php: https://www.cs.ryerson.ca/~f9zhang/proj/confirmation.php
+
+create.php: http://webdev.scs.ryerson.ca/~f9zhang/a.php
+
+display.php: http://webdev.scs.ryerson.ca/~f9zhang/b.php
+
+item1.html: https://www.cs.ryerson.ca/~f9zhang/proj/item1.html
+
+item2.hmtl:  https://www.cs.ryerson.ca/~f9zhang/proj/item2.html
+
+item3.hmtl:  https://www.cs.ryerson.ca/~f9zhang/proj/item3.html
+
+item4.hmtl:  https://www.cs.ryerson.ca/~f9zhang/proj/item4.html
+
+item5.hmtl:  https://www.cs.ryerson.ca/~f9zhang/proj/item5.html
+
+item6.hmtl:  https://www.cs.ryerson.ca/~f9zhang/proj/item6.html
+
+item7.hmtl: https://www.cs.ryerson.ca/~f9zhang/proj/item7.html
+
+Main page.html: https://www.cs.ryerson.ca/~f9zhang/proj/main.html
+
+menu.html: https://www.cs.ryerson.ca/~f9zhang/proj/menu.html
+
+survey.html: https://www.cs.ryerson.ca/~f9zhang/proj/survey.html
+
+welcome_get.php:  https://www.cs.ryerson.ca/~f9zhang/proj/welcome_get.php
